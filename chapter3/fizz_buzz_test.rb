@@ -1,5 +1,6 @@
 require 'minitest/autorun'
 #自分のファイルパスを起点
+
 require_relative './fizz_buzz'
 
 class FizzBuzzTest < Minitest::Test
